@@ -28,3 +28,13 @@ Un navigateur moderne compatible avec Bootstrap 5
    ```bash
    git clone https://github.com/ton-utilisateur/ton-projet.git
    cd ton-projet
+
+2. Installez les dépendances nécessaires :
+   npm install
+   
+3. Lancez le serveur de développement :
+   npm start
+
+4. Ouvrez votre navigateur et accédez à :
+   http://localhost:3000/actualites.html
+
